@@ -1,0 +1,5 @@
+target/
+bindings/
+*.wasm
+.DS_Store
+wasm-pack.log
